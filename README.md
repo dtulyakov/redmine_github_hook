@@ -2,6 +2,8 @@
 Форк одноимённого гема, использую для bitbucket.org
 
 gem 'redmine_github_hook', :git => 'git://github.com/dtulyakov/redmine_github_hook.git'
+gem "redmine_github_hook", :github => "dtulyakov/redmine_github_hook"
+
 
 # Redmine GitHub Hook
 
